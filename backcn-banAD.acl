@@ -1518,9 +1518,6 @@ ad-channel\.wikawika\.xyz
 [proxy_list]
 # 代理列表
 
-# bika
-(^|\.)picacomic.com\.\w*$
-
 # MyList
 (^|\.)423down\.com$
 (^|\.)chaipip\.com$
